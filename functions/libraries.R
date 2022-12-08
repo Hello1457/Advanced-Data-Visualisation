@@ -1,0 +1,6 @@
+library(palmerpenguins)
+library(ggplot2)
+library(janitor)
+library(dplyr)
+library(ggpubr)
+library(tidyverse)
