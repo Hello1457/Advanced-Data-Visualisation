@@ -1,0 +1,6 @@
+# This repository contains analysis of culmen length in 3 penguin species based on the data in the Palmer Penguins dataset
+
+# The raw data and cleaned data are found in the 'data' folder.
+# The packages and cleaning function required are found in the 'functions' folder.
+# The code for the analysis and production of the graph is found in the 'source' folder.
+# The graph showing the results of the analysis are in 'output'.
