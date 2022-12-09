@@ -1,6 +1,4 @@
-This repository contains all the materials and processes used in an analysis of the
-differences in culmen length between 3 penguin species based on the data in the Palmer 
-Penguins dataset.
+This repository contains all the materials and processes used in an analysis of thedifferences in culmen length between 3 penguin species based on the data in the Palmer Penguins dataset.
 
 The raw data and cleaned data are found in the 'data' folder.
 The packages and cleaning function required are found in the 'functions' folder.
