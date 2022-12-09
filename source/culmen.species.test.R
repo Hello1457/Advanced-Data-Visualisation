@@ -13,7 +13,7 @@ write.csv(penguins_clean,"data_clean/penguins_clean.csv")
 model1<-aov(culmen_length_mm~species,penguins_clean)
 summary(model1)
 
-# This one-way anova had an F-value of 410 and a P value of <2e-16. Given the p-value is below 0.05, 
+# This one-way anova had an F-value of 410 and a P-value of <2e-16. Given the p-value is below 0.05, 
 # we can accept the hypothesis that being from different species has a significant
 # effect on the average culmen length of a penguin in at least some of the species, and that the means are significantly different.
 
