@@ -1,8 +1,11 @@
+#load in libraries
+source("functions/libraries.R")
+
 #read in data
 penguins_raw<-read.csv("data_raw/penguins_raw.csv")
 
 
-# cleaning data
+# cleaning data- read in the function from the cleaning.R file
 source("functions/cleaning.R")
 penguins_clean<-cleaning(penguins_raw)
 
