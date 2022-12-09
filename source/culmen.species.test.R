@@ -16,7 +16,7 @@ summary(model1)
 
 
 
-# plotting graph
+# plot graph
 violinplot<-ggviolin(penguins_clean, x="species", y= "culmen_length_mm" , fill = "species",
                      palette = c("#00AFBB", "#E7B800", "#FC4E07"),
                      add = "boxplot", add.params = list(fill = "white"))+
