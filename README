@@ -1,4 +1,4 @@
-# This repository contains analysis of culmen length in 3 penguin species based on the data in the Palmer Penguins dataset
+# This repository contains analysis of how culmen length varies between 3 penguin species based on the data in the Palmer Penguins dataset
 
 # The raw data and cleaned data are found in the 'data' folder.
 # The packages and cleaning function required are found in the 'functions' folder.
